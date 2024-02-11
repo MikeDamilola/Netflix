@@ -1,0 +1,155 @@
+.body{
+    background-color: black;
+}
+*{
+    text-decoration: none;
+}
+.navbar{
+    background: black;
+    font-family: sans-serif;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.navdiv{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo{
+    display: block;
+    width: 100px;
+}
+li{
+    list-style: none;
+    display: inline-block;
+}
+li a {
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    margin-right: 25px;
+}
+.home{
+    color: white;
+}
+.icons{
+    color: white;
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+}
+.hero-section{
+    background-image: url('./images/HighlightedMovie.png');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-align: left;
+}
+
+/*First section after the hero section css*/
+.image-row1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+}
+.image-container1{
+    flex: 0 0 33.33%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+/*Second section after the hero section css*/
+.image-row2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+}
+.image-container2{
+    flex: 0 0 33.33%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+/*Third section after the hero section css*/
+.image-row3{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+}
+.image-container3{
+    flex: 0 0 33.33%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+/*Fourth section after the hero section css */
+.image-row4{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+}
+.image-container4{
+    flex: 0 0 33.33%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+/*Fifth section after the hero section css */
+.image-row5{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+}
+.image-container5{
+    flex: 0 0 33.33%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+/*Sixth section after the hero section css */
+.image-row6{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+}
+.image-container6{
+    flex: 0 0 33.33%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+/*Seventh section after the hero section css */
+.image-row7{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+}
+.image-container7{
+    flex: 0 0 33.33%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+/*Seventh section after the hero section css */
+.image-row8{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+}
+.image-container8{
+    flex: 0 0 33.33%;
+    padding: 10px;
+    box-sizing: border-box;
+}
